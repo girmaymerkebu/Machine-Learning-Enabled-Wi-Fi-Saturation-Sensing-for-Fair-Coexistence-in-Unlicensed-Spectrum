@@ -25,4 +25,4 @@ Based on this approach, 20,000 sample elements are collected with a more or less
 2. M. Girmay, V. Maglogiannis, D. Naudts, A. Shahid, and I. Moerman, "Coexistence Scheme for Uncoordinated LTE and WiFi Networks Using Experience Replay Based Q-Learning" in Sensors, vol. 21 (6977), 2021, doi: 10.3390/s21216977.
 
 # Contact
-If you need any further details about the dataset, then you can contact at merkebutekaw.girmay@ugent.be or adnan.shahid@ugent.be
+If you need any further details about the dataset, then you can contact merkebutekaw.girmay@ugent.be or adnan.shahid@ugent.be
