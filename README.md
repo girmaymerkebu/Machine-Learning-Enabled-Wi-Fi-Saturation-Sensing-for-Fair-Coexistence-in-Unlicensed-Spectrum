@@ -1,4 +1,4 @@
-# Dataset for identification of Saturated and Unsaturated WiFi networks
+# Dataset for Identification of Saturated and Unsaturated WiFi Networks
 The Dataset comprises the histogram of Inter-frame spacing for saturated and unsaturated WiFi networks. 
 
 ## Dataset Description
