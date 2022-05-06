@@ -1,4 +1,5 @@
-# Machine Learning Enabled Wi-Fi Saturation Sensing for Fair Coexistence in Unlicensed Spectrum
+# Dataset for identification of Saturated and Unsaturated WiFi networks
+The Dataset comprises the histogram of Inter-frame spacing for saturated and unsaturated WiFi networks. 
 
 ## Dataset Description
 In order to develop a CNN model that can classify saturated and unsaturated traffic in WiFi network, we prepared a large dataset that represents the traffic characteristics of both cases.  In this dataset collection, different scenarios of saturated and unsaturated 802.11a network are modelled in ns-3. A Wi-fi network is distinguished as saturated network if its aggregated throughput has reached the maximum system throughput limit
