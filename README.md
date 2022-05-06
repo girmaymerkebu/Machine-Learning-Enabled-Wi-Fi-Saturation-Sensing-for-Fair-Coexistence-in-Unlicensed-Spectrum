@@ -25,5 +25,5 @@ Based on this approach, 20,000 sample elements are collected with a more or less
 
 
 # References
-[1] M. Girmay, A. Shahid, V. Maglogiannis, D. Naudts and I. Moerman, "Machine Learning Enabled Wi-Fi Saturation Sensing for Fair Coexistence in Unlicensed Spectrum," in IEEE Access, vol. 9, pp. 42959-42974, 2021, doi: 10.1109/ACCESS.2021.3066052.
-[2] M. Girmay, V. Maglogiannis, D. Naudts, A. Shahid, and I. Moerman, "Coexistence Scheme for Uncoordinated LTE and WiFi Networks Using Experience Replay Based Q-Learning" in Sensors, vol. 21, no. 21,  6977, 2021, doi: 10.3390/s21216977.
+1. M. Girmay, A. Shahid, V. Maglogiannis, D. Naudts and I. Moerman, "Machine Learning Enabled Wi-Fi Saturation Sensing for Fair Coexistence in Unlicensed Spectrum," in IEEE Access, vol. 9, pp. 42959-42974, 2021, doi: 10.1109/ACCESS.2021.3066052.
+2. M. Girmay, V. Maglogiannis, D. Naudts, A. Shahid, and I. Moerman, "Coexistence Scheme for Uncoordinated LTE and WiFi Networks Using Experience Replay Based Q-Learning" in Sensors, vol. 21, no. 21,  6977, 2021, doi: 10.3390/s21216977.
