@@ -6,7 +6,7 @@ Once the PAR of saturation point for a specific network configuration is determi
 the PAR lies between PARsat − 250packet/s and PARsat + 250packet/s. UDP traffic was generated at different packet arrival rates to investigate 
 the traffic characteristics of different load levels covering a wide range of performance variations in saturated and unsaturated traffic cases. 
 For each configuration and traffic load examined in this study, the simulation run-time was set to 20 minutes. Then, the starting time and duration of each frame 
-accessing the medium is monitored to generate the IFS distribution and collision percentage.\ 
+accessing the medium is monitored to generate the IFS distribution and collision percentage.<br/>
 
 Each element E in a row of the dataset is obtained by monitoring IFS and percentage of collision and is composed of (x1, x2, ..., x26, y1, y2, ..., y26, s, r, l). 
 The values fx1, x2..., x26, y1, y2, ..., y26 represent the histogram of the IFS values for the M frames that accessed the medium in 60 seconds duration. 
